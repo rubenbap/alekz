@@ -226,20 +226,20 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "Sneaker head.";
+        content: "nice dumps.";
     }
     21%, 40%{
-        content: "Fashion lover.";
+        content: "good music.";
     }
     41%, 60%{
-        content: "Car enthusiast.";
+        content: "nice cars.";
     }
     61%, 80%{
-        content: "Money addicted.";
+        content: "shows.";
     }
-    81%, 100%{
+    /*81%, 100%{
         content: "Lifestylish.";
-    }
+    }*/
 }
 
 @media (max-width: 1000px){
